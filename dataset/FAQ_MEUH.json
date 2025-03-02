@@ -1,0 +1,106 @@
+[
+    {
+        "instruction": "Is the Visale guarantee accepted as a guarantor at La Meuh?",
+        "output": "Yes."
+    },
+    {
+        "instruction": "Are the application fees refunded at la Meuh?",
+        "output": "They will be refunded if we are unable to offer you accommodation. In the event of withdrawal or refusal on your part, they will not be refunded."
+    },
+    {
+        "instruction": "How to contact the administration of La Meuh?",
+        "output": "The administration is available from Monday to Friday from 8:00 a.m. to 12:00 p.m. and from 1:00 p.m. to 5:00 p.m., by telephone at 04 66 54 25 50. The accommodation service is available on Tuesdays and Thursdays from 1:00 p.m. to 5:00 p.m. or by telephone at 04 66 54 25 51 or 04 66 54 31 64."
+    },
+    {
+        "instruction": "Who to contact in case of technical problems in the accommodation at la Meuh (breakdown, etc.)?",
+        "output": "In case of a technical problem, you can and must report it on the KER FOR HOME application."
+    },
+    {
+        "instruction": "What are the different types of heating available at la Meuh?",
+        "output": "The accommodations are all equipped with electric convectors, with the exception of building S which is currently heated by gas. The price is then included in the charges."
+    },
+    {
+        "instruction": "What are the different types of accommodation on campus?",
+        "output": "Accommodation at the Maison des Élèves is classified into three categories: rooms (15m2), duplexes (30m2) and studios (from 18 to 26m2). You will find all the necessary details on the Our Accommodation page accessible here."
+    },
+    {
+        "instruction": "How to change accommodation at la Meuh?",
+        "output": "You just need to make a written request to the accommodation service, the allocation will then be done in chronological order. However, if you are in a studio, you will not be able to have another studio."
+    },
+    {
+        "instruction": "When can I take possession of my accommodation at la Meuh?",
+        "output": "The last weekend before the start of the school year. Exceptionally, and with the agreement of the Management, exemptions may be granted."
+    },
+    {
+        "instruction": "Where should I go to collect my keys at la Meuh?",
+        "output": "At the accommodation service of the Maison Des Élèves, building O, 572 Chemin du Viget 30100 Alès, from 8:00 a.m. to 12:00 p.m. and from 1:00 p.m. to 4:00 p.m. at the latest."
+    },
+    {
+        "instruction": "What equipment is needed to furnish my accommodation at la Meuh?",
+        "output": "The accommodations are equipped, so you must bring sheets, duvets, pillows, mattress protector, shower curtain, towels, as well as cooking and cleaning supplies. People staying in rooms can also bring a small fridge and a microwave or why not a cookeo or a magimix for cooking. Please note that electric hotplates are prohibited."
+    },
+    {
+        "instruction": "How does the opening of the electricity meter work at la Meuh?",
+        "output": "You must contact EDF (or another supplier of your choice) on 09 69 32 15 15. You will then have to send them all the information given by the secretariat during the email exchanges."
+    },
+    {
+        "instruction": "How does rental insurance work for my accommodation at la Meuh?",
+        "output": "Rental insurance is mandatory, you have the choice between different providers (GMF, MATMUT, MMA, ...). You will then have to give your room number, the address of the accommodation as well as its surface area. The certificate must be sent by email or handed over in person to receive the keys to the accommodation."
+    },
+    {
+        "instruction": "How to obtain official documents at  la Meuh (accommodation certificate, rent receipt, etc.)?",
+        "output": "We provide, upon request by email, an accommodation certificate, a rent receipt after payment, and CAF certificates to be completed."
+    },
+    {
+        "instruction": "Who to contact for administrative procedures such as CAF or others at la Meuh?",
+        "output": "The secretariat of the Maison Des Élèves (572 Chemin du Viget 30100 Alès / 04 66 54 25 51) is at your disposal to inform you and support you during these procedures."
+    },
+    {
+        "instruction": "How to get an APL file?",
+        "output": "You can obtain a file online on the website www.caf.fr, or in paper format at the CAF d'Alès (47 Boulevard Gambetta, 30100 Alès)."
+    },
+    {
+        "instruction": "Who can benefit from APL?",
+        "output": "Whether you are a scholarship holder or not, you may be entitled to help to finance your accommodation, but your income must not exceed a certain resource ceiling."
+    },
+    {
+        "instruction": "When and to whom are APL benefits paid?",
+        "output": "All benefits are paid in arrears. They are paid into the Maison Des Élèves account and are deducted from the rent. The aid is paid directly to the lessor. To do this, a prior request must be made."
+    },
+    {
+        "instruction": "If I get a reminder, when will I receive my benefits?",
+        "output": "A reminder can be paid at any time, but processing times must be taken into account."
+    },
+    {
+        "instruction": "The CAF is asking me to repay, what can I do?",
+        "output": "If you delay in informing your CAF of a change in circumstances that must revise downwards or remove a right, you will be obliged to repay the sums paid in error. In the event that the aid is paid to the lessor, you will not have to do anything, the secretariat ensures the reimbursement."
+    },
+    {
+        "instruction": "How do I pay my rent at la Meuh?",
+        "output": "Choosing direct debit is simple and recommended: direct debits are made after the 20th of the current month. You also have the option of paying by credit card, check payable to MdE, or in cash. The monthly aid is deducted directly from the rent. For this type of payment, the rent must be paid in advance."
+    },
+    {
+        "instruction": "I pay for my accommodation at la Meuh by direct debit and I have changed bank accounts, what should I do?",
+        "output": "You must quickly provide us with a Bank, Postal or Savings Bank Identity Statement, accompanied by a duly completed SEPA form."
+    },
+    {
+        "instruction": "How do I prepare for my departure from la Meuh?",
+        "output": "To terminate your lease, 15 days' notice is required. To do this, you must contact the various organizations (CAF and EDF), notify them of your departure and cancel your subscriptions. You must also make an appointment with the accommodation department to establish the inventory of fixtures for your room. This will be done with an employee of the Maison des Élèves."
+    },
+    {
+        "instruction": "Where to eat?",
+        "output": "The school canteen is open every lunchtime from Monday to Friday. The \"Cyber Café\" located in building G offers drinks, pastries and sandwiches all day long during the week. Finally, a solidarity grocery store managed by the ENTR'EMA is located on the Maison des Élèves site."
+    },
+    {
+        "instruction": "Is there a shared kitchen at la Meuh?",
+        "output": "There are shared kitchens in buildings F and H. These are only accessible to people staying in rooms in buildings F and H."
+    },
+    {
+        "instruction": "Where to collect your mail at la Meuh?",
+        "output": "The mail is left by the postman in the dedicated space, in the corridor of the secretariat. It is filed in alphabetical order."
+    },
+    {
+        "instruction": "Can we have parcels delivered at la Meuh?",
+        "output": "Colissimo: The accommodation service does not receive parcels, the postman comes directly with a delivery notice, which he leaves in the mail cabinet (to be collected from the Post Office). Amazon & co: parcels are to be delivered to a local relay point."
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+      "instruction": "What is the focus of the 'Mathematics for Machine Learning and Optimization' module?",
+      "output": "This module focuses on key mathematical concepts for optimization and machine learning, including convex optimization, linear regression, support vector machines, and regularization techniques. It also covers heuristic approaches for solving NP-hard combinatorial optimization problems."
+    },
+    {
+      "instruction": "What is the primary objective of the 'Mathematics for Machine Learning and Optimization' module?",
+      "output": "This module focuses on key mathematical concepts for optimization and machine learning, including convex optimization, linear regression, support vector machines, and regularization techniques. It also covers heuristic approaches for solving NP-hard combinatorial optimization problems."
+    },
+    {
+      "instruction": "What are the two main courses within the Mathematics for Machine Learning and Optimization module?",
+      "output": "The module includes two main courses: 'Heuristic Approaches for Algorithmic Optimization' and 'Advanced Mathematics for Machine Learning.'"
+    },
+    {
+      "instruction": "What are the key courses in the Mathematics for Machine Learning and Optimization module?",
+      "output": "The module includes two main courses: 'Heuristic Approaches for Algorithmic Optimization' and 'Advanced Mathematics for Machine Learning.'"
+    },
+    {
+      "instruction": "Who are the instructors for the 'Mathematics for Machine Learning and Optimization' module?",
+      "output": "The instructors include Stefan Janaqi, Michel Vasquez, Andon Tchechmedjiev, Abdelhak Imoussaten, and Sébastien Harispe, all from LGI2P/IMT Mines Alès."
+    },
+    {
+      "instruction": "What are the prerequisites for the Mathematics for Machine Learning and Optimization module?",
+      "output": "Prerequisites include knowledge of algorithmics and complexity, mathematical analysis, linear algebra, and programming skills in Python."
+    },
+    {
+      "instruction": "Who teaches the 'Mathematics for Machine Learning and Optimization' module?",
+      "output": "The module is taught by Stefan Janaqi, Michel Vasquez, Andon Tchechmedjiev, Abdelhak Imoussaten, and Sébastien Harispe, all affiliated with LGI2P/IMT Mines Alès."
+    },
+    {
+        "instruction": "Can you name the instructors for the 'Mathematics for Machine Learning and Optimization' course?",
+        "output": "The course is instructed by Stefan Janaqi, Michel Vasquez, Andon Tchechmedjiev, Abdelhak Imoussaten, and Sébastien Harispe from LGI2P/IMT Mines Alès."
+    },
+    {
+        "instruction": "Who is on the teaching team for the 'Mathematics for Machine Learning and Optimization' module?",
+        "output": "The teaching team comprises Stefan Janaqi, Michel Vasquez, Andon Tchechmedjiev, Abdelhak Imoussaten, and Sébastien Harispe, all members of LGI2P/IMT Mines Alès."
+    },
+    {
+      "instruction": "How is student performance evaluated in the Mathematics for Machine Learning and Optimization module?",
+      "output": "Evaluation consists of practical reports, continuous assessment, and a final project. The weighting varies between individual and pair evaluations."
+    },
+    {
+      "instruction": "How is student assessment carried out in the Mathematics for Machine Learning and Optimization module?",
+      "output": "Evaluation consists of practical reports, continuous assessment, and a final project. The weighting varies between individual and pair evaluations."
+    },
+    {
+      "instruction": "What topics are covered in the 'Advanced Mathematics for Machine Learning' course?",
+      "output": "The course covers convex optimization, linear regression as an optimization problem, support vector machines, kernel trick, high-dimensional problems, lasso method, and sparse learning."
+    },
+    {
+      "instruction": "What skills are students expected to acquire from the 'Heuristic Approaches' course?",
+      "output": "Students will learn to implement and evaluate heuristic methods for solving real-world combinatorial optimization problems, focusing on local search and evolutionary algorithms."
+    },
+    {
+      "instruction": "What is the total workload for the Mathematics for Machine Learning and Optimization module?",
+      "output": "The module comprises 70 hours of teaching, including lectures, practical sessions, and personal study time. It is divided into 20 hours for 'Heuristic Approaches' and 50 hours for 'Advanced Mathematics.'"
+    },
+    {
+      "instruction": "What is the workload for the Mathematics for Machine Learning and Optimization module?",
+      "output": "The module comprises 70 hours of teaching, including lectures, practical sessions, and personal study time. It is divided into 20 hours for 'Heuristic Approaches' and 50 hours for 'Advanced Mathematics.'"
+    },
+    {
+      "instruction": "What tools are used for Mathematics for Machine Learning and Optimization practical sessions?",
+      "output": "Practical sessions utilize Python and other relevant libraries, with students working on their personal computers."
+    },
+    {
+      "instruction": "Which tools are utilized during the Mathematics for Machine Learning and Optimization practicals?",
+      "output": "Practical sessions utilize Python and other relevant libraries, with students working on their personal computers."
+    },
+    {
+      "instruction": "What is the penalty for late submissions for the Mathematics for Machine Learning and Optimization module?",
+      "output": "Late submissions without valid reasons are penalized by a deduction of 3 points per day, based on a 20-point grading scale."
+    },
+    {
+      "instruction": "What happens if students submit assignments late in the Mathematics for Machine Learning and Optimization module?",
+      "output": "Late submissions without valid reasons are penalized by a deduction of 3 points per day, based on a 20-point grading scale."
+    }
+  ]
+  
+  
+  

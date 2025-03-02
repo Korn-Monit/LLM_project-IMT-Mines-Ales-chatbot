@@ -1,0 +1,98 @@
+[
+    {
+        "instruction": "What is the purpose of the 'Advanced Machine Learning' module?",
+        "output": "The 'Advanced Machine Learning' module aims to deepen knowledge in machine learning techniques, including supervised learning and advanced methods like semi-supervised, transfer, and reinforcement learning. It also focuses on recommender systems and includes a hackathon project to apply learning to a large-scale application."
+    },
+    {
+        "instruction": "What topics are covered in the 'Advanced Machine Learning' course?",
+        "output": "The course covers supervised learning methods such as ensemble learning (stacking, bagging, boosting), graphical approaches (Bayesian networks, Markov random fields), hierarchical classification, neural networks, recommender systems (collaborative filtering, content-based, hybrid approaches), and emerging techniques like semi-supervised, transfer, and reinforcement learning."
+    },
+    {
+        "instruction": "What are the prerequisites for the 'Advanced Machine Learning' module?",
+        "output": "The prerequisites include completion of Module 8.3: Introduction to Artificial Intelligence, which provides foundational knowledge for this course."
+    },
+    {
+        "instruction": "How is student performance evaluated in the 'Advanced Machine Learning' module?",
+        "output": "Evaluation consists of a multiple-choice questionnaire (MCQ) with a coefficient of 1, lab work with potential submissions (coefficient 1), and a project with a public defense in a hackathon format (coefficient 6)."
+    },
+    {
+        "instruction": "What learning outcomes are expected from the 'Advanced Machine Learning' module?",
+        "output": "Students are expected to master the main machine learning methods, understand their characteristics and limitations, and be able to implement them effectively in appropriate contexts."
+    },
+    {
+        "instruction": "Who are the instructors for the 'Advanced Machine Learning' module?",
+        "output": "The instructors are Nicolas Sutton-Charani, Sébastien Harispe, Stefan Janaqi, Gérard Dray, Abdelhak Imoussaten, and Andon Tchechmedjiev."
+    },
+    {
+        "instruction": "Who teaches 'Advanced Machine Learning'?",
+        "output": "Nicolas Sutton-Charani, Sébastien Harispe, Stefan Janaqi, Gérard Dray, Abdelhak Imoussaten, and Andon Tchechmedjiev."
+    },
+    {
+        "instruction": "List the instructors for the Advanced Machine Learning module.",
+        "output": "Nicolas Sutton-Charani, Sébastien Harispe, Stefan Janaqi, Gérard Dray, Abdelhak Imoussaten, and Andon Tchechmedjiev."
+    },
+    {
+        "instruction": "What is the structure of the 'Advanced Machine Learning' module?",
+        "output": "The module includes 16 hours of lectures, 8 hours of lab sessions, 23 hours of project work (including a hackathon), and a 2-hour written exam, totaling 50 hours of instruction."
+    },
+    {
+        "instruction": "How are late submissions penalized in the 'Advanced Machine Learning' module?",
+        "output": "Late submissions are penalized by a deduction of 1 point per day, based on a 20-point grading scale."
+    },
+    {
+        "instruction": "What is the workload for the 'Advanced Machine Learning' module?",
+        "output": "The module requires 50 hours of teaching, with an estimated 45 minutes of personal study per hour of instruction and an additional 25 hours for project work."
+    },
+    {
+        "instruction": "What pedagogical methods are used in the 'Advanced Machine Learning' module?",
+        "output": "The module uses a combination of lectures, practical lab sessions, and a project organized as a hackathon, with access to personal laptops and a compute server for support."
+    },
+    {
+        "instruction": "What does the 'Advanced Machine Learning' module aim to achieve?",
+        "output": "The 'Advanced Machine Learning' module aims to deepen knowledge in machine learning techniques, including supervised learning and advanced methods like semi-supervised, transfer, and reinforcement learning. It also focuses on recommender systems and includes a hackathon project to apply learning to a large-scale application."
+    },
+    {
+        "instruction": "Which topics are included in the 'Advanced Machine Learning' module?",
+        "output": "The course covers supervised learning methods such as ensemble learning (stacking, bagging, boosting), graphical approaches (Bayesian networks, Markov random fields), hierarchical classification, neural networks, recommender systems (collaborative filtering, content-based, hybrid approaches), and emerging techniques like semi-supervised, transfer, and reinforcement learning."
+    },
+    {
+        "instruction": "What background knowledge is required for the 'Advanced Machine Learning' module?",
+        "output": "The prerequisites include completion of Module 8.3: Introduction to Artificial Intelligence, which provides foundational knowledge for this course."
+    },
+    {
+        "instruction": "How will students be graded in the 'Advanced Machine Learning' module?",
+        "output": "Evaluation consists of a multiple-choice questionnaire (MCQ) with a coefficient of 1, lab work with potential submissions (coefficient 1), and a project with a public defense in a hackathon format (coefficient 6)."
+    },
+    {
+        "instruction": "What skills will students gain from the 'Advanced Machine Learning' module?",
+        "output": "Students are expected to master the main machine learning methods, understand their characteristics and limitations, and be able to implement them effectively in appropriate contexts."
+    },
+    {
+        "instruction": "Who are the educators for the 'Advanced Machine Learning' module?",
+        "output": "The instructors are Nicolas Sutton-Charani, Sébastien Harispe, Stefan Janaqi, Gérard Dray, Abdelhak Imoussaten, and Andon Tchechmedjiev."
+    },
+    {
+        "instruction": "Can you name the teachers of 'Advanced Machine Learning'?",
+        "output": "Nicolas Sutton-Charani, Sébastien Harispe, Stefan Janaqi, Gérard Dray, Abdelhak Imoussaten, and Andon Tchechmedjiev."
+    },
+    {
+        "instruction": "Who is part of the teaching team for 'Advanced Machine Learning'?",
+        "output": "Nicolas Sutton-Charani, Sébastien Harispe, Stefan Janaqi, Gérard Dray, Abdelhak Imoussaten, and Andon Tchechmedjiev."
+    },
+    {
+        "instruction": "How is the 'Advanced Machine Learning' module structured?",
+        "output": "The module includes 16 hours of lectures, 8 hours of lab sessions, 23 hours of project work (including a hackathon), and a 2-hour written exam, totaling 50 hours of instruction."
+    },
+    {
+        "instruction": "What happens if students submit late assignments in the 'Advanced Machine Learning' module?",
+        "output": "Late submissions are penalized by a deduction of 1 point per day, based on a 20-point grading scale."
+    },
+    {
+        "instruction": "What is the total workload for the 'Advanced Machine Learning' module?",
+        "output": "The module requires 50 hours of teaching, with an estimated 45 minutes of personal study per hour of instruction and an additional 25 hours for project work."
+    },
+    {
+        "instruction": "What teaching methods are utilized in the 'Advanced Machine Learning' module?",
+        "output": "The module uses a combination of lectures, practical lab sessions, and a project organized as a hackathon, with access to personal laptops and a compute server for support."
+    }
+]

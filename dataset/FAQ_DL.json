@@ -1,0 +1,78 @@
+[
+    {
+        "instruction": "What does the deep learning module cover?",
+        "output": "The module 'Deep and Reinforcement Learnings' introduces students to the theoretical and practical aspects of Deep Learning and Reinforcement Learning, exploring their concepts, methodologies, and applications in fields like natural language processing, image processing, and complex decision-making."
+    },
+    {
+        "instruction": "What is the scope of the deep learning module?",
+        "output": "The module 'Deep and Reinforcement Learnings' introduces students to the theoretical and practical aspects of Deep Learning and Reinforcement Learning, exploring their concepts, methodologies, and applications in fields like natural language processing, image processing, and complex decision-making."
+    },
+    {
+        "instruction": "Who is responsible for deep learning module?",
+        "output": "The module is overseen by Sébastien HARISPE, who can be contacted via email at sebastien.harispe@mines-ales.fr or by phone at +33434246282."
+    },
+    {
+        "instruction": "What are the prerequisites for the deep learning module?",
+        "output": "To enroll in the module, students must have completed courses in Introduction to Machine Learning (2IA-8.3) and Advanced Machine Learning (2IA-9.2). Proficiency in Python is also required."
+    },
+    {
+        "instruction": "What are the requirements to enroll in the deep learning module?",
+        "output": "To enroll in the module, students must have completed courses in Introduction to Machine Learning (2IA-8.3) and Advanced Machine Learning (2IA-9.2). Proficiency in Python is also required."
+    },
+    {
+        "instruction": "What are the main courses in the deep learning module?",
+        "output": "The module includes three main courses: 'Advanced Introduction to Artificial Neural Networks,' which delves into advanced concepts of neural networks; 'Deep Learning in Action,' focused on practical applications using PyTorch; and 'Introduction to Reinforcement Learning,' which provides foundational knowledge and practical examples of reinforcement learning."
+    },
+    {
+        "instruction": "What are the key subjects in the deep learning module?",
+        "output": "The module includes three main courses: 'Advanced Introduction to Artificial Neural Networks,' which delves into advanced concepts of neural networks; 'Deep Learning in Action,' focused on practical applications using PyTorch; and 'Introduction to Reinforcement Learning,' which provides foundational knowledge and practical examples of reinforcement learning."
+    },
+    {
+        "instruction": "How will students be assessed in the deep learning module?",
+        "output": "The module is assessed through a combination of written exams and projects. Projects carry more weight in courses like 'Deep Learning in Action' and 'Introduction to Reinforcement Learning,' where students are evaluated on their practical implementation skills."
+    },
+    {
+        "instruction": "How is the deep learning module evaluated?",
+        "output": "The module is assessed through a combination of written exams and projects. Projects carry more weight in courses like 'Deep Learning in Action' and 'Introduction to Reinforcement Learning,' where students are evaluated on their practical implementation skills."
+    },
+    {
+        "instruction": "What is the pedagogical approach in the deep learning module?",
+        "output": "The pedagogical approach integrates lectures, seminars, labs, and projects. Students are also expected to engage in self-directed learning and dedicate additional hours to personal study and preparation."
+    },
+    {
+        "instruction": "What teaching methods are applied in the deep learning module?",
+        "output": "The pedagogical approach integrates lectures, seminars, labs, and projects. Students are also expected to engage in self-directed learning and dedicate additional hours to personal study and preparation."
+    },
+    {
+        "instruction": "Who are the teaching staff in the deep learning module?",
+        "output": "The teaching staff includes Sébastien HARISPE, Anne JOHANNET, and Patrice GUYOT, who are experts in Artificial Intelligence, Machine Learning, neural networks, signal processing, and knowledge representation."
+    },
+    {
+        "instruction": "Who are the professors teaching the deep learning module?",
+        "output": "The teaching staff includes Sébastien HARISPE, Anne JOHANNET, and Patrice GUYOT, who are experts in Artificial Intelligence, Machine Learning, neural networks, signal processing, and knowledge representation."
+    },
+    {
+        "instruction": "Who teaches the deep learning module?",
+        "output": "The teaching staff includes Sébastien HARISPE, Anne JOHANNET, and Patrice GUYOT, who are experts in Artificial Intelligence, Machine Learning, neural networks, signal processing, and knowledge representation."
+    },
+    {
+        "instruction": "Can you list the instructors for the deep learning course?",
+        "output": "The teaching staff includes Sébastien HARISPE, Anne JOHANNET, and Patrice GUYOT, who are experts in Artificial Intelligence, Machine Learning, neural networks, signal processing, and knowledge representation."
+    },
+    {
+        "instruction": "Which teaching staff are part of the deep learning program?",
+        "output": "The teaching staff includes Sébastien HARISPE, Anne JOHANNET, and Patrice GUYOT, who are experts in Artificial Intelligence, Machine Learning, neural networks, signal processing, and knowledge representation."
+    },
+    {
+        "instruction": "Who oversees the deep learning module?",
+        "output": "The module is managed by Sébastien HARISPE. You can reach him at sebastien.harispe@mines-ales.fr or by calling +33434246282."
+    },
+    {
+        "instruction": "Who is the coordinator of deep learning module?",
+        "output": "Sébastien HARISPE is the coordinator of the module. He can be contacted via email at sebastien.harispe@mines-ales.fr or phone at +33434246282."
+    },
+    {
+        "instruction": "Who should students contact regarding the module?",
+        "output": "Students should contact Sébastien HARISPE for any queries related to the module. His email is sebastien.harispe@mines-ales.fr, and his phone number is +33434246282."
+    }
+]

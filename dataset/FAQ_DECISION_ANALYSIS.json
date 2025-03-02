@@ -1,0 +1,115 @@
+[
+    {
+      "instruction": "What is the purpose of the 'Decision Analysis' module at IMT Mines Alès?",
+      "output": "The 'Decision Analysis' module aims to address complex decision problems involving multiple criteria and uncertainties. It introduces classical and modern multiple criteria decision analysis (MCDA) methods, such as AHP, ELECTRE, and fuzzy integrals like Choquet and Sugeno."
+    },
+    {
+      "instruction": "What topics are covered in the 'Uncertainty Theories' course?",
+      "output": "The course covers decision theory, objective and subjective probabilities, imprecise probabilities, possibility theory, belief functions, and fuzzy logic. It also includes data fusion, decision-making under uncertainty, classification, and clustering."
+    },
+    {
+      "instruction": "What are the prerequisites for the 'Decision Analysis' module?",
+      "output": "Students are expected to have prior knowledge in probability theory, basic logic, and fuzzy logic."
+    },
+    {
+      "instruction": "How is student performance evaluated in the 'Decision Analysis' module?",
+      "output": "Evaluation includes individual written exams and lab work. The weighting for each course is 70% written exams and 30% lab work."
+    },
+    {
+      "instruction": "What learning outcomes are expected from the 'Uncertainty Theories' course?",
+      "output": "Students will learn to select appropriate theoretical frameworks for various types of data and master techniques for representation, fusion, decision-making, classification, and clustering under uncertainty."
+    },
+    {
+      "instruction": "Who are the instructors for the 'Decision Analysis' module?",
+      "output": "The module is taught by Abdelhak Imoussaten, Jacky Montmain, Nicolas Sutton-Charani, and Sébastien Harispe, all experts in decision analysis, machine learning, and knowledge representation."
+    },
+    {
+      "instruction": "What methods are introduced in the 'Multiple Criteria Decision Analysis' course?",
+      "output": "The course introduces additive methods like AHP and MACBETH, outranking methods like ELECTRE and PROMETHEE, and non-additive methods based on fuzzy integrals."
+    },
+    {
+      "instruction": "What is the structure of the 'Decision Analysis' module?",
+      "output": "The module comprises two main courses: 'Uncertainty Theories' and 'Multiple Criteria Decision Analysis.' Each includes lectures, seminars, labs, and evaluations."
+    },
+    {
+      "instruction": "What is the workload for the 'Decision Analysis' module?",
+      "output": "The module includes 50 hours of teaching, divided equally between 'Uncertainty Theories' and 'Multiple Criteria Decision Analysis,' with additional personal study and project work."
+    },
+    {
+      "instruction": "How are late submissions penalized in the Decision Analysismodule?",
+      "output": "Late submissions are penalized by a deduction of 3 points per day, based on a 20-point grading scale."
+    },
+    {
+      "instruction": "What is the goal of the 'Decision Analysis' module at IMT Mines Alès?",
+      "output": "The module aims to provide solutions to complex decision-making problems involving multiple criteria and uncertainties. It covers both classical and modern multiple criteria decision analysis (MCDA) methods, including AHP, ELECTRE, and fuzzy integrals such as Choquet and Sugeno."
+    },
+    {
+      "instruction": "What subjects are taught in the 'Uncertainty Theories' module?",
+      "output": "Subjects include decision theory, types of probabilities (objective and subjective), imprecise probabilities, possibility theory, belief functions, fuzzy logic, data fusion, decision-making under uncertainty, classification, and clustering."
+    },
+    {
+      "instruction": "What prior knowledge is required for the 'Decision Analysis' course?",
+      "output": "A background in probability theory, basic logic, and fuzzy logic is required for this course."
+    },
+    {
+      "instruction": "How are students assessed in the 'Decision Analysis' course?",
+      "output": "Assessments consist of written examinations and laboratory assignments, with a grading distribution of 70% for exams and 30% for lab work."
+    },
+    {
+      "instruction": "What competencies will students gain from the 'Uncertainty Theories' course?",
+      "output": "Students will develop the ability to choose suitable theoretical frameworks for diverse data types and apply techniques for representation, fusion, decision-making, classification, and clustering under conditions of uncertainty."
+    },
+    {
+      "instruction": "Who are the educators for the 'Decision Analysis' course?",
+      "output": "The course is led by Abdelhak Imoussaten, Jacky Montmain, Nicolas Sutton-Charani, and Sébastien Harispe, specialists in decision-making, machine learning, and knowledge modeling."
+    },
+    {
+      "instruction": "What approaches are introduced in the 'Multiple Criteria Decision Analysis' module?",
+      "output": "The module explores additive approaches like AHP and MACBETH, outranking approaches such as ELECTRE and PROMETHEE, and non-additive approaches involving fuzzy integrals."
+    },
+    {
+      "instruction": "Can you explain the format of the 'Decision Analysis' module?",
+      "output": "This module is divided into two courses: 'Uncertainty Theories' and 'Multiple Criteria Decision Analysis.' Each course includes lectures, hands-on labs, seminars, and evaluations."
+    },
+    {
+      "instruction": "What is the time commitment for the 'Decision Analysis' course?",
+      "output": "The module involves 50 teaching hours, split evenly between the 'Uncertainty Theories' and 'Multiple Criteria Decision Analysis' courses, along with independent study and project work."
+    },
+    {
+      "instruction": "What happens if assignments in the 'Decision Analysis' course are submitted late?",
+      "output": "Late submissions incur a penalty of 3 points per day on a grading scale of 20 points."
+    },
+    {
+      "instruction": "Which decision-making techniques are included in the 'Decision Analysis' module?",
+      "output": "Techniques include classical MCDA methods like AHP, ELECTRE, and PROMETHEE, as well as non-additive approaches such as fuzzy integrals."
+    },
+    {
+      "instruction": "What are the expected outcomes for students of the 'Decision Analysis' module?",
+      "output": "Students will acquire a deep understanding of decision-making under uncertainty and learn how to apply advanced decision analysis methods to real-world problems."
+    },
+    {
+      "instruction": "What are the grading components in the 'Decision Analysis' module?",
+      "output": "Grading consists of a combination of written tests (70%) and practical lab work (30%)."
+    },
+    {
+      "instruction": "What is the penalty policy for late work in the 'Decision Analysis' module?",
+      "output": "Submissions turned in after the deadline are penalized by 3 points per day, based on a 20-point scale."
+    },
+    {
+      "instruction": "What specific learning objectives are targeted in the 'Uncertainty Theories' course?",
+      "output": "The course focuses on equipping students with tools to analyze uncertain data, perform data fusion, and execute classification and clustering tasks effectively."
+    },
+    {
+        "instruction": "Who teaches the 'Decision Analysis' module?",
+        "output": "The module is taught by Abdelhak Imoussaten, Jacky Montmain, Nicolas Sutton-Charani, and Sébastien Harispe, all specialists in decision analysis, machine learning, and knowledge representation."
+    },
+    {
+        "instruction": "Can you list the instructors for the 'Decision Analysis' module?",
+        "output": "The instructors are Abdelhak Imoussaten, Jacky Montmain, Nicolas Sutton-Charani, and Sébastien Harispe, renowned for their expertise in decision analysis and related fields."
+    },
+    {
+        "instruction": "Who is responsible for teaching the 'Decision Analysis' course?",
+        "output": "Abdelhak Imoussaten, Jacky Montmain, Nicolas Sutton-Charani, and Sébastien Harispe are responsible for teaching the 'Decision Analysis' course."
+    }
+]
+  
