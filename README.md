@@ -1,23 +1,45 @@
 # **IMT Mines Alès Student Assistant Chatbot (AI-Powered Chatbot for International Students)**
 
 ## **Project Overview**
-This project develops an **AI-powered chatbot** designed to assist **international students** at **IMT Mines Alès**, helping them access key school-related information efficiently. The chatbot leverages **fine-tuned Meta-Llama-3.1-8B**, optimized with **LoRA (Low-Rank Adaptation)** and **4-bit quantization**, to provide accurate responses in a resource-efficient manner.
+This project develops an **AI-powered chatbot** tailored to support **international students** at **IMT Mines Alès** by providing quick and accurate access to essential academic and administrative information. The solution integrates **fine-tuned Meta-Llama-3.1-8B**, enhanced through **LoRA (Low-Rank Adaptation)** and **4-bit quantization**, for a resource-efficient deployment.
 
-### **Key Features**
-✅ **Academic Assistance**: Provides information on each course in the **Informatics Department**.  
-✅ **Housing Guidance**: Assists students with **house renting options**.  
-✅ **Work-Study Contracts**: Helps students find information on **work-study opportunities**.  
-✅ **Multilingual Support**: Can answer queries in **French & English**.  
-✅ **Optimized for Speed & Efficiency**: Uses **LoRA** and **4-bit quantization** for **fast, memory-efficient** performance.
+Additionally, the project includes a **comparative study** of two development strategies: **Fine-tuning vs. Retrieval-Augmented Generation (RAG)**, to evaluate performance, flexibility, and deployment feasibility.
 
 ---
 
-## **Dataset**
-The chatbot is trained on a structured dataset covering:
-- 📚 **Course Information**: Details on all courses in the **Informatics Department**.
-- 🏠 **Housing & Renting**: Information on student accommodations, including rental options.
-- 💼 **Work-Study Contracts**: Guidelines and opportunities for **internships & work-study contracts**.
+## **Key Features**
+
+| Feature                    | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| ✅ Academic Assistance     | Answers questions on courses in the **Informatics Department**.             |
+| ✅ Housing Guidance        | Provides information on **student housing and rental options**.             |
+| ✅ Work-Study Support      | Shares details on **internships and work-study contracts**.                 |
+| ✅ Multilingual Support    | Handles queries in both **English and French**.                             |
+| ✅ Efficient Performance   | Utilizes **LoRA** and **4-bit quantization** for **fast and lightweight** execution. |
+| ✅ Dual Approach           | Implements both **fine-tuning** and **RAG-based** solutions.                |
 
 ---
 
+## **Technical Approaches**
 
+| Approach              | Description                                                                                  |
+|-----------------------|----------------------------------------------------------------------------------------------|
+| 🔧 Fine-Tuning        | Fine-tuned **Llama 3.1 8B** with **UnSloth** and **LoRA**, trained on a custom academic dataset. |
+| 🔍 RAG (Retrieval-Augmented Generation) | Integrated **Llama 3.1 8B** with **BM25** and **semantic encoder** (`paraphrase-multilingual-MiniLM-L12-v2`) for hybrid retrieval. |
+
+---
+
+## **Dataset Overview**
+
+The dataset is curated to reflect real-world concerns and queries of international students:
+
+| Category               | Contents                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------|
+| 📚 Academic Content    | Detailed information on courses, curricula, and academic requirements in **Informatics & AI**. |
+| 🏠 Housing             | Student accommodation options, rental guidance, and application processes.                 |
+| 💼 Work-Study Options  | Internship guidelines, contract types, and job search resources for international students. |
+
+---
+
+## **Conclusion**
+This project delivers a robust, scalable, and multilingual AI chatbot solution, optimized for the needs of international students at IMT Mines Alès. By evaluating both **fine-tuned** and **RAG-based** methods, it offers insights into performance trade-offs and practical implementation choices for academic AI assistants.
