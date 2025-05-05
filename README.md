@@ -1,5 +1,10 @@
 # **IMT Mines Alès Student Assistant Chatbot (AI-Powered Chatbot for International Students)**
 
+File Description:
+### ChatBot_Colab is the notebook for fine-tuning with the json dataset
+### ChatbotRAG_Colab is the notebook for RAG approach with the same dataset(json)
+### ChatbotRagPDF is the notebook for testing RAG with FAQ.pdf of MDE only(not included the json dataset)
+
 ## **Project Overview**
 This project develops an **AI-powered chatbot** tailored to support **international students** at **IMT Mines Alès** by providing quick and accurate access to essential academic and administrative information. The solution integrates **fine-tuned Meta-Llama-3.1-8B**, enhanced through **LoRA (Low-Rank Adaptation)** and **4-bit quantization**, for a resource-efficient deployment.
 
@@ -25,7 +30,7 @@ Additionally, the project includes a **comparative study** of two development st
 | Approach              | Description                                                                                  |
 |-----------------------|----------------------------------------------------------------------------------------------|
 | 🔧 Fine-Tuning        | Fine-tuned **Llama 3.1 8B** with **UnSloth** and **LoRA**, trained on a custom academic dataset. |
-| 🔍 RAG (Retrieval-Augmented Generation) | Integrated **Llama 3.1 8B** with **BM25** and **semantic encoder** (`paraphrase-multilingual-MiniLM-L12-v2`) for hybrid retrieval. |
+| 🔍 RAG (Retrieval-Augmented Generation) | Integrated **Llama 3.1 8B** with **BM25** and **semantic encoder** (`paraphrase-multilingual-MiniLM-L12-v2` or `BAAI/bge-m3`) for hybrid retrieval. |
 
 ---
 
