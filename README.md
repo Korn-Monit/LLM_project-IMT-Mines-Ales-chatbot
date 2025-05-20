@@ -1,4 +1,7 @@
 # **IMT Mines Alès Student Assistant Chatbot (AI-Powered Chatbot for International Students)**
+# Demo
+https://github.com/user-attachments/assets/3ba61ac0-f84b-45bf-babd-4988ba909a1e
+
 
 File Description:
 ### ChatBot_Colab is the notebook for fine-tuning with the json dataset
