@@ -33,7 +33,7 @@ Additionally, the project includes a **comparative study** of two development st
 | Approach              | Description                                                                                  |
 |-----------------------|----------------------------------------------------------------------------------------------|
 | 🔧 Fine-Tuning        | Fine-tuned **Llama 3.1 8B** with **UnSloth** and **LoRA**, trained on a custom academic dataset. |
-| 🔍 RAG (Retrieval-Augmented Generation) | Integrated **Llama 3.1 8B** with **BM25** and **semantic encoder** (`paraphrase-multilingual-MiniLM-L12-v2` or `BAAI/bge-m3`) for hybrid retrieval. |
+| 🔍 RAG (Retrieval-Augmented Generation) | Integrated **Llama 3.1 8B** with **BM25** and **Embedding model** (`paraphrase-multilingual-MiniLM-L12-v2` or `BAAI/bge-m3` with BGE-Reranker) for hybrid retrieval. |
 
 ---
 
